@@ -37,4 +37,3 @@ if enes100.isVisible():
  y = enes100.getY()
  th = enes100.getTheta()
  enes100.print("Pose:", x, y, th)
-
