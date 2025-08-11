@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "enes100-micropython"
+version = "0.1.0"
+description = "ENES100 MicroPython client for Acebott ESP32-Max-V1.0"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [{ name = "ENES100 Team" }]
+
+[tool.setuptools]
+packages = ["Enes100", "Enes100.net", "Enes100.net.vendor", "Enes100.utils"]
+include-package-data = true

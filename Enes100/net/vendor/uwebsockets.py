@@ -311,4 +311,3 @@ def connect(uri):
     return WebsocketClient(sock)
 
 
-
