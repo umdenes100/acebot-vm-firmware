@@ -9,4 +9,4 @@ WS_URL = "ws://10.112.9.33:7755"
 DEBUG = False
 
 # Optional: spoof MAC address (bytes) or None to disable. Example: b"\xaa\xbb\xcc\xdd\xee\xff"
-MAC_SPOOF = \xBC\xDD\xC2\x24\xA8\x6C
+MAC_SPOOF = b"\xBC\xDD\xC2\x24\xA8\x6C"
