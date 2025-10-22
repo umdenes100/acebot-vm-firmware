@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: enes100
+Version: 1.0.2
+Summary: A MicroPython library for ESP32-based ENES100 communication using WebSockets.
+Home-page: https://github.com/umdenes100/enes100-micropython
+Author: Keystone Center
+Author-email: enes100@umd.edu
+License: MIT
+Keywords: MicroPython ESP32 WebSocket ENES100
+Classifier: Intended Audience :: UMD Students
+Classifier: Programming Language :: MicroPython :: 1.24
+Classifier: Topic :: Communications
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: summary
